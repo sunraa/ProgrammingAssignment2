@@ -1,5 +1,5 @@
 ###############################################################################
-## The functions makeCacheMatrix and cacheSolve provide examples of lexical
+## The functions makeCacheMatrix and cacheSolve provide examples of how lexical
 ## scoping works in R. 
 ###############################################################################
 
